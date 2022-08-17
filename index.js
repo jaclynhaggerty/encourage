@@ -1,1 +1,1 @@
-console.log ("Encouraging message")
+console.log ("Hello! You're doing great :) Keep up the good work!!")
